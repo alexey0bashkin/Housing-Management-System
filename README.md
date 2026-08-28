@@ -131,21 +131,7 @@
         <img src="diagrams/class_diagram.png" width="300" alt="Диаграмма классов"/>
         <p><em>Диаграмма классов</em></p>
       </td>
-      <td align="center">
-        <img src="diagrams/sequence_diagram.png" width="300" alt="Диаграмма последовательности"/>
-        <p><em>Диаграмма последовательности</em></p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="diagrams/component_diagram.png" width="300" alt="Диаграмма компонентов"/>
-        <p><em>Диаграмма компонентов</em></p>
-      </td>
-      <td align="center">
-        <img src="diagrams/state_diagram.png" width="300" alt="Диаграмма состояний"/>
-        <p><em>Диаграмма состояний</em></p>
-      </td>
-    </tr>
+      
   </table>
 </div>
 
