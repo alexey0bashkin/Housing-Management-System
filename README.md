@@ -245,3 +245,31 @@
 ---
 
 ## 📂 Структура репозитория
+housing-management-system/
+├── README.md # Описание проекта
+├── docs/ # Документация
+│ ├── course_work.docx # Полный текст работы
+│ ├── presentation.pptx # Презентация
+│ └── screenshots/ # Скриншоты
+├── database/ # База данных
+│ ├── schema.sql # Схема БД
+│ └── er_diagram.png # ER-диаграмма
+├── wordpress/ # PHP-код для WordPress
+└── diagrams/ # Все диаграммы
+
+
+---
+
+## 🔧 Установка и запуск
+
+```bash
+# Клонировать репозиторий
+git clone https://github.com/alexey0bashkin/housing-management-system.git
+
+# Импорт базы данных
+mysql -u root -p < database/schema.sql
+
+# Настройка WordPress
+# 1. Установите WordPress
+# 2. Скопируйте PHP-файлы из папки wordpress/ в тему
+# 3. Настройте подключение к БД в wp-config.php
