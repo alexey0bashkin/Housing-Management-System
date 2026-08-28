@@ -73,10 +73,7 @@
         <img src="diagrams/as_is_context.png" width="400" alt="Контекстная диаграмма AS-IS"/>
         <p><em>Контекстная диаграмма (IDEF0) — первый уровень</em></p>
       </td>
-      <td align="center">
-        <img src="diagrams/as_is_decomposition.png" width="400" alt="Декомпозиция AS-IS"/>
-        <p><em>Диаграмма декомпозиции (IDEF0) — второй уровень</em></p>
-      </td>
+      
     </tr>
   </table>
 </div>
@@ -90,10 +87,7 @@
         <img src="diagrams/to_be_context.png" width="400" alt="Контекстная диаграмма TO-BE"/>
         <p><em>Модель TO-BE</em></p>
       </td>
-      <td align="center">
-        <img src="diagrams/to_be_decomposition.png" width="400" alt="Декомпозиция TO-BE"/>
-        <p><em>Декомпозиция процессов TO-BE</em></p>
-      </td>
+      
     </tr>
   </table>
 </div>
